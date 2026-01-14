@@ -12,4 +12,4 @@ metrics/*.json
 
 
 # DVC
-.dvc
+.dvcdvc
